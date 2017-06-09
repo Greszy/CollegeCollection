@@ -22,9 +22,9 @@ BusinessPolicy contains PowerPoint presentation slides that were used during my 
 
 Here's a walkthrough of how the Glo-Bus similutation looked during my game:
 
-<img src='Globus.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='BusinessPolicy/Globus.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Here's a walkthrough of our Final Presentation slides:
 
-<img src='FinalPresentation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='BusinessPolicy/FinalPresentation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
