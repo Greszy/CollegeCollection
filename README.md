@@ -13,3 +13,18 @@ In this repository I am collecting all my assignments that I have completed duri
 4. IntroductoryDBMS contains my Access desktop database that I created for my Databases introductory course. 
 
 5. ProjectManagement contains documentation for my Project Management class where I helped manage a team that worked on creating a web application. 
+
+### 6. BusinessPolicy 
+
+contains PowerPoint presentation slides that were used during my Business Policy project. The assignment was a semester long project that required my team to participate in a [Glo-Bus](https://new.glo-bus.com/) business simulation. The similuation required me and my team to run a company producing cameras and drones and compete with other teams in the industry. Through the period of the game we had to analyze our competition, their position in the market, their strenghts and weaknesses and based on that create our own competetive advantage and meat investors's expectations. Out of six competing teams my team has finished the game on second place. We managed to create a good long-term strategy and backed it up with healthy financial results. The game has imrpoved my organizational and analytical skills. It has also helped me become a better presenter and team player. 
+
+### Video Walkthrough
+
+Here's a walkthrough of how the Glo-Bus similutation looked during my game:
+
+<img src='Globus.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Here's a walkthrough of our Final Presentation slides:
+
+<img src='FinalPresentation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
