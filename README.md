@@ -16,7 +16,7 @@ DataWarehouse contains a report how my team worked on setting up a data warehous
 
 Excel_Finance presents some example Excel spreadsheets that I worked with during my accouting and business classes. 
 
-### 4. IntroductoryDBM
+### 4. IntroductoryDBMS
 
 IntroductoryDBMS contains my Access desktop database that I created for my Databases introductory course. 
 
