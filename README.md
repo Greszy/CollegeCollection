@@ -22,7 +22,13 @@ IntroductoryDBMS contains my Access desktop database that I created for my Datab
 
 ### 5. ProjectManagement
 
-ProjectManagement contains documentation for my Project Management class where I helped manage a team that worked on creating a web application. 
+ProjectManagement contains documentation for my Project Management class where I helped manage a team that worked on creating a web application. The plan was to create an inventory system for a small liqour store. ### Video Walkthrough
+
+Here's a walkthrough of final report:
+
+<img src='ProjectManagement/FinalReport.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 
 ### 6. BusinessPolicy 
 
