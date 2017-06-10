@@ -4,15 +4,31 @@ In this repository I am collecting all my assignments that I have completed duri
 
 # Project Descriptions
 
-1. DataMining contains a paper that I wrote for my Data Mining for Business Analytics course. 
+### 1. DataMining
 
-2. DataWarehouse contains a report how my team worked on setting up a data warehouse.
+DataMining contains a paper that I wrote for my Data Mining for Business Analytics course. 
 
-3. Excel_Finance presents some example Excel spreadsheets that I worked with during my accouting and business classes. 
+### 2. DataWarehouse
 
-4. IntroductoryDBMS contains my Access desktop database that I created for my Databases introductory course. 
+DataWarehouse contains a report how my team worked on setting up a data warehouse.
 
-5. ProjectManagement contains documentation for my Project Management class where I helped manage a team that worked on creating a web application. 
+### 3. Excel_Finance
+
+Excel_Finance presents some example Excel spreadsheets that I worked with during my accouting and business classes. 
+
+### 4. IntroductoryDBMS
+
+IntroductoryDBMS contains my Access desktop database that I created for my Databases introductory course. 
+
+### 5. ProjectManagement
+
+ProjectManagement contains documentation for my Project Management class where I helped manage a team that worked on creating a web application. The plan was to create an inventory system for a small liqour store. ### Video Walkthrough
+
+Here's a walkthrough of final report:
+
+<img src='ProjectManagement/FinalReport.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 
 ### 6. BusinessPolicy 
 
@@ -22,9 +38,9 @@ BusinessPolicy contains PowerPoint presentation slides that were used during my 
 
 Here's a walkthrough of how the Glo-Bus similutation looked during my game:
 
-<img src='Globus.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='BusinessPolicy/Globus.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Here's a walkthrough of our Final Presentation slides:
 
-<img src='FinalPresentation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='BusinessPolicy/FinalPresentation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
