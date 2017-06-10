@@ -12,7 +12,7 @@ DataMining contains a paper that I wrote for my Data Mining for Business Analyti
 
 DataWarehouse contains a report how my team worked on setting up a data warehouse.
 
-### 3. Excel_Finance
+### 3. Excel_Accounting
 
 Excel_Finance presents some example Excel spreadsheets that I worked with during my accouting and business classes. 
 
