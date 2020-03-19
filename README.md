@@ -4,23 +4,23 @@ In this repository I am collecting all my assignments that I have completed duri
 
 # Project Descriptions
 
-### 1. DataMining
+### 1. Data Mining
 
 DataMining contains a paper that I wrote for my Data Mining for Business Analytics course. 
 
-### 2. DataWarehouse
+### 2. Data Warehouse
 
 DataWarehouse contains a report how my team worked on setting up a data warehouse.
 
-### 3. Excel_Accounting
+### 3. Excel Accounting
 
 Excel_Finance presents some example Excel spreadsheets that I worked with during my accouting and business classes. 
 
-### 4. IntroductoryDBMS
+### 4. Introductory DBMS
 
 IntroductoryDBMS contains my Access desktop database that I created for my Databases introductory course. 
 
-### 5. ProjectManagement
+### 5. Project Management
 
 ProjectManagement contains documentation for my Project Management class where I helped manage a team that worked on creating a web application. The plan was to create an inventory system for a small liqour store. While working on the web app we also had to prepare a series of reports that helped us manage the project. 
 
